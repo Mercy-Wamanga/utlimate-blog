@@ -1,0 +1,24 @@
+.container{
+    margin-top: 100px;
+
+}
+
+.card-title{
+    text-align: center;
+}
+
+.add{
+    margin-left: 1219px;
+}
+
+input[type="textarea"]{
+    height: 100px;
+}
+
+.fa-trash{
+    color:red;
+  }
+
+.fa-edit{
+    color:green;
+}
